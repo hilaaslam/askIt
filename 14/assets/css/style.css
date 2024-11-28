@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+}
+
+/* .banner{
+    background: url('assets/images/XU_Cat3.png');
+    background-position: center ;
+    background-size: cover ;
+    height: 100vh ;
+} */
+
+.banner-text{
+    text-align: center ;
+    position: relative ;
+    top: 230px ;
+    left: 60px ;
+    font-size: 50px ;
+    font-weight: 300 ;
+    font-family: sans-serif ;
+    color: rgb(21, 21, 125);
+}
